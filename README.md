@@ -1,6 +1,6 @@
 ## Hi there <img width="50px" src="Smiley.gif">
 My name is Alex!
-<h2 style="color="blue"">Here is some information about me:</h2>
+<h2 style="color:"blue"">Here is some information about me:</h2>
 <ul>
 <li>10th grade student</li>
   <li>new developer</li>
