@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="Smiley.gif">
 My name is Alex!
 
 <!--
