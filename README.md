@@ -1,10 +1,10 @@
-## Hi there <img width="50px" src="Smiley.gif">
+## Hi there <img width="50px" src="Cool.gif">
 My name is Alex!
 <h2>Here is some information about me:</h2>
 <ul>
-<li>10th grade student</li>
-  <li>new developer</li>
-  <li>advanced guitar player</li>
+<li>10th grade student</li><img width="30px" src="Nerd.gif">
+  <li>new developer</li><img width="30px" src="Grin.gif">
+  <li>advanced guitar player</li><img width="30px" src="Music.gif">
 </ul>
 
 
