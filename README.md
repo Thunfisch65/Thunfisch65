@@ -1,6 +1,11 @@
 ## Hi there <img width="50px" src="Smiley.gif">
 My name is Alex!
-
+<h1>Here are some informations about me:</h1>
+<ul>
+<li>currently student</li>
+  <li>beginning developer</li>
+  <li>advanced guitar player</li>
+</ul>
 <!--
 **Thunfisch65/Thunfisch65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
