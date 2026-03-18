@@ -1,4 +1,4 @@
-## Hi there <img width="50px" src="Cool.gif">
+## Hi there <img width="50px" src="Smiley.gif">
 My name is Alex!
 <h2>Here is some information about me:</h2>
 <ul>
